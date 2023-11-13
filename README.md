@@ -1,2 +1,2 @@
-# This is a collection of homework assignments for the 'code of the future' project from Innopolis University 
+# Домашние работы с курса 'код будущего'
 
