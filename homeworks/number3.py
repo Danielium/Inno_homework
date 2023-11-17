@@ -13,4 +13,4 @@ def calculate_sum(param): # Параметр функции
     return inner_function()
 
 
-print(calculate_sum(3))
+print(calculate_sum(10))
