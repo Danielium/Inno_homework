@@ -1,4 +1,4 @@
-global_var = 10 #Глобальная переменная
+global_var = 10 # Глобальная переменная
 
 
 def calculate_sum(param): # Параметр функции
