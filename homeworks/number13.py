@@ -12,5 +12,5 @@ kmeans_data = df[['Age', 'Name_Length']]
 kmeans = KMeans(n_clusters=3)
 df['Age_Name_Cluster'] = kmeans.fit_predict(kmeans_data)
 
-# Вывод результатов
+#Вывод результатов
 print(df)
